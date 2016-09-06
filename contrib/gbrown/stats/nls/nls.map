@@ -1,5 +1,0 @@
-{
-	global: q_nls;
-	local: *;
-};
-
